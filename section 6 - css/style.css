@@ -2,10 +2,10 @@ body {
   background-image: url("images/background.jpg");
   background-size: 1600px 900px;
 }
-h2 {
-  color: red;
+h2, p {
+  color: rgb(184, 167, 167);
   text-align: center;
-  border: 5px solid purple;
+  border: 5px solid rgb(184, 134, 184);
   cursor: pointer;
 }
 ul {
